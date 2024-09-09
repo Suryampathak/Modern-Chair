@@ -32,6 +32,7 @@ color-changing-chair/
 ├── index.html        # Main HTML file
 ├── styles.css        # Main CSS file
 └── README.md         # Project documentation
+```
 
 ## CSS Animations and Media Queries
 **Animations:** CSS animations are used to provide a smooth transition effect when changing the chair color.
