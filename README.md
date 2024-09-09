@@ -35,13 +35,13 @@ color-changing-chair/
 ```
 
 ## CSS Animations and Media Queries
-**Animations:** CSS animations are used to provide a smooth transition effect when changing the chair color.
-**Media Queries:** The project is optimized for various screen sizes using CSS media queries to ensure responsiveness.
+1. **Animations:** CSS animations are used to provide a smooth transition effect when changing the chair color.
+2. **Media Queries:** The project is optimized for various screen sizes using CSS media queries to ensure responsiveness.
 
 ## Future Enhancements
-Add more color options and animation effects.
-Use JavaScript to add additional functionality, such as saving user preferences.
-Further enhance accessibility features.
+* Add more color options and animation effects.
+* Use JavaScript to add additional functionality, such as saving user preferences.
+* Further enhance accessibility features.
 
 ## Contributing
-Contributions are welcome! Please create an issue or fork the repository and submit a pull request.
+* Contributions are welcome! Please create an issue or fork the repository and submit a pull request.
